@@ -1,6 +1,6 @@
 {
-  "name": "wxt-react-starter",
-  "description": "manifest.json description",
+  "name": "facebook-mass-delete",
+  "description": "Extension for delete multiple message",
   "private": true,
   "version": "0.0.0",
   "type": "module",
